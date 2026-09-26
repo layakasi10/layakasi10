@@ -1,4 +1,4 @@
-# Hi, I'm Lavanya Kasilingam 👋
+# Hi, I'm Lavanya Kasilingam 
 
 **Senior Solution Architect | Product Manager | Salesforce & AI-Driven Platforms**
 
